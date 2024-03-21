@@ -1,2 +1,2 @@
-odin-recipes
-I have a vague idea how git and the terminal work. I get the assignments done by trial and error, and it mostly works faster than expected. I've done exercise html projects before (freecodecamp) but I didn't use git then and I felt there were some issues that I didn't fully understand. So I'm happy for the chance to repeat stuff and get more familiar with stuff that is still mostly new. 
+When starting this project, I have merely a vague idea how to use git. I've done a few exercise HTML projects before (over at freecodecamp) but I didn't use git then and I felt there were some things in HTML that I didn't fully understand. So I'm glad to have a chance to repeat stuff and get more familiar with stuff that feels still mostly new.
+After committing: Writing the Recipe felt easy enough, but I forgot to commit for some reason. The whole git thing still feels rather overwhelming, but I'm getting better.
