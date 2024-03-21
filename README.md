@@ -1,0 +1,2 @@
+odin-recipes
+I have a vague idea how git and the terminal work. I get the assignments done by trial and error, and it mostly works faster than expected. I've done exercise html projects before (freecodecamp) but I didn't use git then and I felt there were some issues that I didn't fully understand. So I'm happy for the chance to repeat stuff and get more familiar with stuff that is still mostly new. 
